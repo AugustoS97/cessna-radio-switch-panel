@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name cessna-switch-radio-pcb)(type KiCad)(uri ${KIPRJMOD}/libraries/cessna-switch-radio-pcb.pretty)(options "")(descr ""))
+)

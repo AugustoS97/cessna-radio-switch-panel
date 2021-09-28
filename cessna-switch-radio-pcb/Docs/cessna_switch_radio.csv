@@ -1,0 +1,6 @@
+"Ref","Qnty","Value","Cmp name","Footprint","Description","Vendor"
+"C1, C2, C3, C4, C5, C6, C7, C8, C9, ","9","10nF","C_Small","Capacitor_THT:C_Disc_D3.8mm_W2.6mm_P2.50mm","Unpolarized capacitor, small symbol",""
+"D1, D2, D3, ","3","LED","LED","LED_THT:LED_D3.0mm","Light emitting diode",""
+"J1, ","1","Conn_02x15_Odd_Even","Conn_02x15_Odd_Even","Connector_PinHeader_2.54mm:PinHeader_2x15_P2.54mm_Vertical","Generic connector, double row, 02x15, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",""
+"R1, R2, R3, ","3","220Ohm","R_Small","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal","Resistor, small symbol",""
+"SW1, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9, ","9","SW-SS12F44 ","SW_Push_DPDT","cessna-switch-radio-pcb:SW_Slide_1P2T_SS12D07VG6","Momentary Switch, dual pole double throw",""
